@@ -14,5 +14,10 @@
     "splashImageUrl": "https://madfill.vercel.app/og/app-splash-200.png",
     "splashBackgroundColor": "#1e1b4b",
     "webhookUrl": "https://madfill.vercel.app/api/webhook"
+  },
+  "baseBuilder": {
+    "allowedAddresses": [
+      "0x7fd97A417F64d2706cF5C93c8fdf493EdA42D25c"
+    ]
   }
 }
